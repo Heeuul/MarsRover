@@ -1,6 +1,7 @@
 # MarsRover
 
 Tile based game made with C++ to simulate the exploration of Mars rover.
+
 **Goal**: Control the movement of Mars rover in collecting all the gold while avoid falling into the holes.
 
 ## How to Play
