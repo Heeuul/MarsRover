@@ -2,7 +2,7 @@
 
 Tile based game made with C++ to simulate the exploration of Mars rover.
 
-**Goal**: Collect every gold inside the map while avoid falling into the holes.
+**Goal**: Help Lucky, the Mars rover, to collect every gold inside the map while avoid falling into the holes.
 
 ## How to Play
 
