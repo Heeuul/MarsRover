@@ -2,13 +2,13 @@
 
 Tile based game made with C++ to simulate the exploration of Mars rover.
 
-**Goal**: Control the movement of Mars rover in collecting all the gold while avoid falling into the holes.
+**Goal**: Collect every gold inside the map while avoid falling into the holes.
 
 ## How to Play
 
 1. Clone/download whole repository, or only MarsRover.exe.
 2. Double-click MarsRover.exe to run.
-3. Enter desired amount of rows, columns, and golds of the tile space.
+3. Enter desired amount of rows, columns, and golds in the map.
 4. Insert movement commands to control the rover. You may enter multiple commands in a single input.
 5. Enter command "Q" to close and exit the software.
 
